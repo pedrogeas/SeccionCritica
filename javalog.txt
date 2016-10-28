@@ -1,0 +1,80 @@
+Proceso 0ENTRA en Sección Crítica. 
+Dato leido = 0
+Proceso 0 SALE de Sección Critica
+Proceso 0 Dato Escrito = 1
+Proceso 1ENTRA en Sección Crítica. 
+Dato leido = 1
+Proceso 1 SALE de Sección Critica
+Proceso 1 Dato Escrito = 2
+Proceso 2ENTRA en Sección Crítica. 
+Dato leido = 2
+Proceso 2 SALE de Sección Critica
+Proceso 2 Dato Escrito = 3
+Proceso 3ENTRA en Sección Crítica. 
+Dato leido = 3
+Proceso 3 SALE de Sección Critica
+Proceso 3 Dato Escrito = 4
+Proceso 4ENTRA en Sección Crítica. 
+Dato leido = 4
+Proceso 4 SALE de Sección Critica
+Proceso 4 Dato Escrito = 5
+Proceso 5ENTRA en Sección Crítica. 
+Dato leido = 5
+Proceso 5 SALE de Sección Critica
+Proceso 5 Dato Escrito = 6
+Proceso 6ENTRA en Sección Crítica. 
+Dato leido = 6
+Proceso 6 SALE de Sección Critica
+Proceso 6 Dato Escrito = 7
+Proceso 7ENTRA en Sección Crítica. 
+Dato leido = 7
+Proceso 7 SALE de Sección Critica
+Proceso 7 Dato Escrito = 8
+Proceso 8ENTRA en Sección Crítica. 
+Dato leido = 8
+Proceso 8 SALE de Sección Critica
+Proceso 8 Dato Escrito = 9
+Proceso 9ENTRA en Sección Crítica. 
+Dato leido = 9
+Proceso 9 SALE de Sección Critica
+Proceso 9 Dato Escrito = 10
+Proceso 10ENTRA en Sección Crítica. 
+Dato leido = 10
+Proceso 10 SALE de Sección Critica
+Proceso 10 Dato Escrito = 11
+Proceso 11ENTRA en Sección Crítica. 
+Dato leido = 11
+Proceso 11 SALE de Sección Critica
+Proceso 11 Dato Escrito = 12
+Proceso 12ENTRA en Sección Crítica. 
+Dato leido = 12
+Proceso 12 SALE de Sección Critica
+Proceso 12 Dato Escrito = 13
+Proceso 13ENTRA en Sección Crítica. 
+Dato leido = 13
+Proceso 13 SALE de Sección Critica
+Proceso 13 Dato Escrito = 14
+Proceso 14ENTRA en Sección Crítica. 
+Dato leido = 14
+Proceso 14 SALE de Sección Critica
+Proceso 14 Dato Escrito = 15
+Proceso 15ENTRA en Sección Crítica. 
+Dato leido = 15
+Proceso 15 SALE de Sección Critica
+Proceso 15 Dato Escrito = 16
+Proceso 16ENTRA en Sección Crítica. 
+Dato leido = 16
+Proceso 16 SALE de Sección Critica
+Proceso 16 Dato Escrito = 17
+Proceso 17ENTRA en Sección Crítica. 
+Dato leido = 17
+Proceso 17 SALE de Sección Critica
+Proceso 17 Dato Escrito = 18
+Proceso 18ENTRA en Sección Crítica. 
+Dato leido = 18
+Proceso 18 SALE de Sección Critica
+Proceso 18 Dato Escrito = 19
+Proceso 19ENTRA en Sección Crítica. 
+Dato leido = 19
+Proceso 19 SALE de Sección Critica
+Proceso 19 Dato Escrito = 20
